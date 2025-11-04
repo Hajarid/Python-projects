@@ -1,0 +1,7 @@
+Single-player game in Python with pygame
+
+Game Objective
+• A red ball bounces around the screen.
+• The player controls a paddle at the bottom of the screen using the left and right arrow keys.
+• The goal is to keep the ball from hitting the bottom of the screen.
+• If the player misses the ball, the game ends and displays "Game Over" for 3 seconds.
